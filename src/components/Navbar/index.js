@@ -52,7 +52,7 @@ const Navbar = ({toggle}) => {
                                     exact='true' 
                                     offset={-80}
                                     activeClass='active'
-                                >About</NavLinks>
+                                >Under Construction</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks 
@@ -63,7 +63,7 @@ const Navbar = ({toggle}) => {
                                     exact='true' 
                                     offset={-79}
                                     activeClass='active'
-                                >Discover</NavLinks>
+                                >Developer</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks 
@@ -74,7 +74,7 @@ const Navbar = ({toggle}) => {
                                     exact='true' 
                                     offset={-79}
                                     activeClass='active'
-                                >Services</NavLinks>
+                                >Abilities</NavLinks>
                             </NavItem>
                             <NavItem>
                                 <NavLinks 
@@ -85,7 +85,7 @@ const Navbar = ({toggle}) => {
                                     exact='true' 
                                     offset={-79}
                                     activeClass='active'
-                                >Sign Up</NavLinks>
+                                >Perspective</NavLinks>
                             </NavItem>
                         </NavMenu>
                         <NavBtn>
